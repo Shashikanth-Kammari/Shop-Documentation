@@ -1,7 +1,7 @@
 ### Redis
 Redis is used for in-memory data storage(Caching) and allows users to access the data of database over API.
 
-Redis is offering the repo file as a rpm. Lets install it
+Redis is offering the repo file as a rpm. Lets install it with supre user
 
 ```
 dnf install redis -y
