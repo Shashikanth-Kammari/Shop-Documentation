@@ -2,7 +2,7 @@
 
 Below is the communication between components and dependency. This dependency comes from **Development team**. Architects decide that, DevOps has no scope in this.
 
-![shop](Infra_image.jpg)
+![shop](shop.png)
 
 ### WEB TIER:
 * Usually web tier is the one which has frontend technologies like HTML, CSS, Java Script (React/Angular/Node).
