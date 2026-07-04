@@ -45,6 +45,8 @@ Usually MongoDB opens the port only to localhost(127.0.0.1), meaning this servic
 
 Update listen address from 127.0.0.1 to 0.0.0.0 in /etc/mongod.conf
 
+bindip change to 0.0.0.0
+
 You can edit file by using 
 ```
 vim /etc/mongod.conf
