@@ -34,7 +34,7 @@ Reverse proxy does the opposite job. The client only ever talks to the proxy —
 
 ![reverse](reverse_proxy_flow.svg)
 
-The core difference to remember:
+### The core difference to remember:
 
 Forward proxy — protects/represents the client, hiding it from the servers it talks to.
 Reverse proxy — protects/represents the server(s), hiding them from the clients that talk to it.
